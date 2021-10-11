@@ -12,7 +12,8 @@
   "suffix": ".mjs",
   "bs-dependencies": [
     "@rescript/react",
-    "rescript-recoil"
+    "rescript-recoil",
+    "@ryyppy/rescript-promise"
   ],
   "reason": { "react-jsx": 3 }
 }
